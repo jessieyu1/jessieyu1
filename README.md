@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**jessieyu1/jessieyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a><img src="https://github-readme-stats.vercel.app/api?username=jessieyu1&show_icons=true&theme=react&count_private=true" alt="github status"/>
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessieyu1&layout=compact&theme=react"/></a>
 
-Here are some ideas to get you started:
+My name is Jessie. I live in Australia and I love to code, travel and cook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a Full Stack Develper.
+
+## 💻 Development Skills
+
+- JavaScript/Typescript
+- Full Stack (React, Node, Express, MongoDB)
+- Frontend (HTML, CSS)
+- Python
+
+## ⭐ My Favorite Programming Languages
+
+- Python
+- JavaScript
+
+## 🔗 Contact
+
+- yujiaxin2009@gmail.com
+- [Linkedin](https://www.linkedin.com/in/jiaxinyu/)
+
+## 📚 My Projects
+
+See below!
+
