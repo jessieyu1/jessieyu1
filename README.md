@@ -6,7 +6,7 @@
 
 My name is Jessie. I live in Australia and I love to code, travel and cook.
 
-I'm currently a Full Stack Developer.
+I'm currently a Platform Engineering Analyst at Deloitte.
 
 ## 💻 Development Skills
 
@@ -14,6 +14,8 @@ I'm currently a Full Stack Developer.
 - Full Stack (React, Node, Express, MongoDB)
 - Frontend (HTML, CSS)
 - Python
+- Java/Kotlin
+- AWS
 
 ## ⭐ My Favorite Programming Languages
 
