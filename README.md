@@ -10,15 +10,16 @@ I'm currently a Platform Engineering Analyst at Deloitte.
 
 ## 💻 Development Skills
 
-- JavaScript/Typescript
-- Full Stack (React, Node, Express, MongoDB)
-- Frontend (HTML, CSS)
+- Microservices, Event-Driven and Serverless architectures
+- Serverless Framework / Cloud Formation
+- AWS
+- MERN Stack
 - Python
 - Java/Kotlin
-- AWS
 
 ## ⭐ My Favorite Programming Languages
 
+- Java
 - Python
 - JavaScript
 
