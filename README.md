@@ -11,11 +11,10 @@ I'm currently a Platform Engineering Analyst at Deloitte.
 ## 💻 Development Skills
 
 - Microservices, Event-Driven and Serverless architectures
-- Serverless Framework / Cloud Formation
+- Serverless Framework
 - AWS
 - MERN Stack
-- Python
-- Java/Kotlin
+- MEAN Stack
 
 ## ⭐ My Favorite Programming Languages
 
