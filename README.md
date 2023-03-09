@@ -6,7 +6,7 @@
 
 My name is Jessie. I live in Australia and I love to code, travel and cook.
 
-I'm currently a Platform Engineering Analyst at Deloitte.
+I'm currently a Full stack developer at ubank.
 
 ## 💻 Development Skills
 
