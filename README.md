@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=jessieyu1&show_icons=true&theme=react&count_private=true" alt="github status"/>
+<a><img src="https://github-readme-stats.vercel.app/api?username=jessieyu1&theme=react&count_private=true" alt="github status"/>
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessieyu1&layout=compact&theme=react"/></a>
 
