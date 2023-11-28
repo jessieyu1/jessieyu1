@@ -23,5 +23,5 @@ My name is Jessie. I'm currently a Full stack developer at ubank.
 
 ## 📚 My Blog
 
-[Blog](https://jessieyu1.hashnode.dev/)
+- [Blog](https://jessieyu1.hashnode.dev/)
 
