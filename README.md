@@ -21,7 +21,7 @@ My name is Jessie. I'm currently a Full stack developer at ubank.
 - yujiaxin2009@gmail.com
 - [Linkedin](https://www.linkedin.com/in/jiaxinyu/)
 
-## 📚 My Projects
+## 📚 My Blog
 
-See below!
+[Blog](https://jessieyu1.hashnode.dev/)
 
